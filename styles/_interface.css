@@ -12,7 +12,7 @@
 .container-back-header {
 	width: 100%;
 	padding-bottom: 206px;
-	background: url(../images/bg.png) center / cover no-repeat;
+	background: url("../images/bg.png") center / cover no-repeat;
 	background-attachment: fixed;
 }
 
@@ -61,7 +61,7 @@
 
 
 .navbar__menu-item__text {
-	font-family: Raleway, sans-serif;
+	font-family: "Raleway", sans-serif;
 	font-size: 17px;
 	font-weight: 600;
 	color: #fff;
@@ -273,8 +273,8 @@
 .container-unlimited-customization-features-bg {
 	padding-top: 118px;
 	padding-bottom: 185px;
-	background: url(../images/ipadbg.png) no-repeat,
-				url(../images/bg1.png) center no-repeat;
+	background: url("../images/ipadbg.png") no-repeat,
+				url("../images/bg1.png") center no-repeat;
 	background-size: 45%, cover;
 	background-attachment: scroll, fixed;
 	background-origin: content-box, padding-box;
@@ -338,7 +338,7 @@
 }
 
 .container-unlimited-customization-features__content__item {
-	background: url(../images/bulletpoint.png) no-repeat;
+	background: url("../images/bulletpoint.png") no-repeat;
 	padding-left: 39px;
 	color: #7c7c7c;
 	line-height: 20px;
@@ -438,7 +438,7 @@
 /*Get know About*/
 
 .container-get-know-about-bg {
-	background: url(../images/bg2.png) center / cover no-repeat fixed;
+	background: url("../images/bg2.png") center / cover no-repeat fixed;
 }
 
 .container-get-know-about-__box-name-indent {
@@ -502,7 +502,7 @@
 /*Get Idea About PRICING PLAN*/
 
 .container-pricing-plan-bg {
-	background: url(../images/pattern.png) center / cover no-repeat fixed;
+	background: url("../images/pattern.png") center / cover no-repeat fixed;
 }
 
 .container-pricing-plan-indent {
@@ -526,7 +526,7 @@
 
 
 .container-pricing-plan__content__item {
-	background: #fff url(../images/BG-blue.png) top / contain no-repeat; 
+	background: #fff url("../images/BG-blue.png") top / contain no-repeat; 
 	width: 318px;
 	box-sizing: border-box;
 	padding: 43px 80px;
@@ -821,6 +821,6 @@
 }
 
 .container__end__inner__text__symbol {
-	font-family: FontAwesome;
+	font-family: "FontAwesome";
 	line-height: 0;
 }
