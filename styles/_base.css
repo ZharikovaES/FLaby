@@ -1,0 +1,32 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: Raleway, sans-serif;
+	font-weight: 500;
+	font-size: 14px;
+	background-color: #fff;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: normal;
+	font-size: 100%;
+}
+
+ul {
+	list-style: none;
+}
+
+ul a {
+	text-decoration: none;
+}
+
+button:focus, input:focus {
+	outline: none;
+}
+
+input {
+	border: none;
+}

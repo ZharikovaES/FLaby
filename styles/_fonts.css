@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:500,600,700,800&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab&display=swap');
+@font-face {
+	font-family: 'Museo Slab 500';
+	src: url('../fonts/MuseoSlab-500.eot');
+	src: url('../fonts/MuseoSlab-500.eot?#iefix') format('embedded-opentype'),
+	url('../fonts/MuseoSlab-500.woff') format('woff'),
+	url('../fonts/MuseoSlab-500.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'FontAwesome';
+	src: url('../fonts/9466.otf') format('OpenType');
+	font-weight: normal;
+	font-style: normal;
+}

@@ -1,0 +1,274 @@
+@media only screen and (min-width : 320px) and (max-width : 1110px) {
+	.container-pricing-plan__box-name-indent {
+		margin-bottom: 70px;
+	}
+	.container-pricing-plan__content {
+		min-height: calc(575px * 3);
+		flex-direction: column;
+		align-items: center;
+	}
+	.container-pricing-plan__content__item {
+		min-height: 540px;
+		width: 318px;
+		box-sizing: border-box;
+	}
+	.container__about-us-indent {
+		padding-right: 30px;
+	}
+
+	.container__about-us__items {
+		width: 100%;
+	}
+
+	.container__about-us__box-info__content {
+		width: 300px;
+	}
+
+	.container__about-us__box-info__content-indent, .container__about-us__box-info__img-logo-indent {
+		margin-bottom: 0px;
+	}
+
+	.container__about-us__box-info {
+		width: 100%;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	
+	.container__about-us__box-info__networks__img {
+		width: 45px;
+	}
+
+	.container__about-us {
+		flex-direction: column;
+		align-items: flex-start;
+	}
+}
+
+@media only screen and (min-width : 786px) and (max-width : 1110px) {
+	.container__about-us__box-info__networks {
+		min-width: 170px;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+	}
+}
+
+@media only screen and (min-width : 701px) and (max-width : 786px) {
+	.container__about-us__box-info__networks {
+		height: 175px;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+	}
+}
+
+@media only screen and (min-width : 320px) and (max-width : 700px) {
+	.container__about-us__box-info {
+		height: 200px;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.container__about-us__box-info {
+		margin-bottom: 20px;
+	}
+
+	.container__about-us__box-info__networks {
+		min-width: 200px;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+	}
+	.container__about-us__box-info__content {
+		width: 100%;		
+	}
+}
+
+@media only screen and (min-width : 320px) and (max-width : 730px) {
+	.container-feel-free {
+		height: 700px;
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		align-items: center;
+	}
+
+	.container-feel-free__content {
+		width: 90%;
+	}
+
+	.container-feel-free__image {
+		width: 60%;
+	}
+
+	.container-feel-free-indent {
+		padding-top: 75px;
+		padding-bottom: 75px;
+	}
+}
+
+@media only screen and (min-width : 491px) and (max-width : 700px) {
+	.container__about-us__box-info__content {
+		width: 400px;		
+	}
+}
+
+@media only screen and (min-width : 354px) and (max-width : 353px) {
+	.container__about-us__items {
+		box-sizing: border-box;
+	    flex-wrap: wrap;
+	    padding: 0px 50px;
+	}
+}
+
+@media only screen and (min-width : 320px) and (max-width : 353px) {
+	.container__about-us__items {
+		box-sizing: border-box;
+	    flex-wrap: wrap;
+	    padding: 0px 40px;	
+	}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 814px) {
+	.container-view-our-latest__box-name-indent {
+		margin-bottom: 50px;
+	}
+}
+
+@media only screen and (min-width: 709px) and (max-width: 814px) {
+	.container-view-our-latest__content {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		justify-content: space-around;
+		flex-wrap: wrap;
+	}
+
+	.container-view-our-latest__content__column {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		justify-content: space-between;
+		width: calc((100% - 10%) / 2);
+		min-height: 300px;
+	}
+	.container-view-our-latest__content__column-media {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: row;
+		justify-content: space-around;
+		width: 100%;
+		min-height: 0px;
+		margin-top: 15px;
+	}
+	.container-view-our-latest__content__column__box-info-media {
+		width: calc(90% / 2);
+	}
+	.container-view-our-latest__content__column__box-info__img-icon-indent-media {
+		margin-right: 15px;
+	}
+	.container-view-our-latest__content__column__box-info__img-icon {
+		width: 40px;
+	}
+	.container-view-our-latest-our-services-indent {
+		padding: 48px 30px 48px 30px;
+	}
+}
+
+@media only screen and (min-width: 381px) and (max-width: 708px) {
+	.container-view-our-latest__content {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.container-view-our-latest__content__column {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		width: calc(70%);
+		min-height: 100px;
+	}
+
+	.container-view-our-latest__content__column__box-info {
+		margin: 15px 0 15px;
+	}
+
+	.container-view-our-latest-our-services-indent {
+		padding: 48px 30px 48px 30px;
+	}
+}
+
+@media only screen and (min-width: 320px) and (max-width: 380px) {
+	.container-view-our-latest__content {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+	}
+
+	.container-view-our-latest__content__column {
+		display: -webkit-flex;
+		display: -moz-flex;
+		display: -ms-flex;
+		display: -o-flex;
+		display: flex;
+		flex-direction: column;
+		width: calc(90%);
+		min-height: 120px;
+	}
+
+	.container-view-our-latest__content__column__box-info {
+		margin: 15px 0 15px;
+	}
+
+	.container-view-our-latest-our-services-indent {
+		padding: 48px 30px 48px 30px;
+	}
+}
+}
