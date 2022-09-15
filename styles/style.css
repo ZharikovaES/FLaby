@@ -1,6 +1,6 @@
-@import "/styles/_fonts";
-@import "/styles/_media";
-@import "/styles/_base";
-@import "/styles/_slider";
-@import "/styles/_interface";
+@import "_fonts.css";
+@import "_media.css";
+@import "_base.css";
+@import "_slider.css";
+@import "_interface.css";
 
